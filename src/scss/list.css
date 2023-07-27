@@ -1,0 +1,21 @@
+#create{
+    text-decoration: none;
+    border: 1px solid;
+    border-radius: 5px;
+  background-color: antiquewhite;
+    margin: 20px 0px;
+}
+table{
+    border: 1px solid;
+    margin: auto;
+    width: 50%;
+
+}
+tr ,th ,td{
+    padding: 10px;
+}
+.name-btn{
+    text-decoration: none;
+    font-weight: 500;
+}
+
